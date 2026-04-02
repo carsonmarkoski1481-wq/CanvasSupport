@@ -1,0 +1,30 @@
+[
+  {
+    "id": "slope",
+    "title": "Slope Game",
+    "url": "https://yoplay.io/slope.embed",
+    "thumbnail": "https://w0.peakpx.com/wallpaper/146/1000/HD-wallpaper-slope-game-neon-ball.jpg",
+    "description": "Roll down the slope for as long as possible without falling off the edge or hitting any obstacles. Speed up as you go!"
+  },
+  {
+    "id": "2048",
+    "title": "2048",
+    "url": "a/2048/index.html",
+    "thumbnail": "https://w0.peakpx.com/wallpaper/925/707/HD-wallpaper-2048-game-numbers-puzzle.jpg",
+    "description": "Join the numbers and get to the 2048 tile! Use your arrow keys to move the tiles."
+  },
+  {
+    "id": "subway-surfers",
+    "title": "Subway Surfers",
+    "url": "https://vaz63.github.io/g20/class-401",
+    "thumbnail": "https://w0.peakpx.com/wallpaper/1014/100/HD-wallpaper-subway-surfers-game-characters.jpg",
+    "description": "Dash as fast as you can! Dodge the oncoming trains! Help Jake, Tricky & Fresh escape from the grumpy Inspector and his dog."
+  },
+  {
+    "id": "temple-run-2",
+    "title": "Temple Run 2",
+    "url": "https://vaz63.github.io/g77/class-829",
+    "thumbnail": "https://w0.peakpx.com/wallpaper/643/631/HD-wallpaper-temple-run-2-game-poster.jpg",
+    "description": "Navigate perilous cliffs, zip lines, mines and forests as you try to escape with the cursed idol. How far can you run?!"
+  }
+]

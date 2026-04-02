@@ -1,0 +1,5 @@
+{
+  "name": "Unblocked Games Hub",
+  "description": "A simple portal for unblocked web games stored in a JSON database.",
+  "requestFramePermissions": []
+}
